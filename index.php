@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Estilos.css">
-    <link rel="shorcut icon" type="image/x-icon" href="imagenes/logo.ico">
+
 
     
     <title>Club Deportivo Fénix</title>
@@ -62,7 +62,13 @@
         
         <footer>
          
-
+        <h4>Datos de contacto</h4>
+            <ul>
+                <li>celular: 314 8461524</li>
+                <li><a href="https://www.facebook.com/fenixgirardota2015/" target="blank"> https://www.facebook.com/fenixgirardota2015/</a></li>
+                <li>correo: fenixgirardota@gmail.com</a></li>
+            </ul>
+ 
  
         </footer>
 </body>
