@@ -31,18 +31,19 @@
     <div class="imagen"></div>
 
     <div class="articulos">
-    <article class="art1 col">
+    <H2>SOBRE NOSOTROS:</H2>
+    <article class="art1">
     <h3> DESCRIPCIÓN DEL SITIO WEB</h3>
     <P>Este sitio está orientato a la presentación de un club de fútbol infantil,el cual debido a su crecimiento 
         necesita un salto a la innovación, tanto en sus procesos de inscripción, como en la presentación de su trabajo.</P>
     </article>
-    <article class="art2 col">
+    <article class="art2">
         <h3>¿QUÉ VERA EL USUARIO FINAL?</h3>
         <P> Lo que el usuario final podra ver, es un sitio web con un buen diseño, que le permita una facil navegación. 
             Lo más importante es que los usuarios se sientan cómodos accediendo a las distintas páginas del sitio a las que 
             les corresponda ir. En conclusión, se busca una armonia de diseño y usabilidad.</P>
         </article>
-        <article class="art3 col">
+        <article class="art3">
             <h3>¿PARA QUÉ FUNCIONARA EL SITIO WEB?</h3>
             <P>Basicamente el club necesita que sus procesos de formación deportiva sean presentados de una forma novedosa 
                 y qué mejor manera de hacerlo que con su propio sitio web, además el crecimineto del club requiere que sus procesos 
