@@ -1,0 +1,90 @@
+
+P,h1,h2,h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    margin: 0;
+}
+
+nav{
+    background-color: whitesmoke;
+}
+.menu{
+    text-align:center; margin: 0;
+    padding: 30px;
+}
+.menu li{
+    display: inline-block; padding: 30px;
+}
+.menu a{
+color: black;text-decoration:none;
+padding: 20px;
+display: block;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+.menu a:hover{
+    background-color:white;
+    border-radius: 5px;
+}
+.titulo{
+    background-color:rgb(24, 24, 78);
+    overflow: hidden;
+    padding: 60px;
+    text-align:center;
+    font-size:30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+}
+.imagen{
+    height: 580px;
+    background: url(Imagena.jpg);
+}
+.articulos{
+    background-color:red
+     overflow: hidden;
+    padding: 80px;
+    text-align: justify;
+   
+}
+  .art1{
+    width: 330px; 
+    pa
+  }
+.art2{
+    float:center;
+    width:  330px; padding-left: 120px; 
+
+}
+.art3{
+    float right: ;
+    width: 330px;  padding-left: 200px;
+   
+}
+.col{
+    display:inline-block
+}
+.emb{
+    background-color: whitesmoke;
+}
+.videos{
+    padding: 80px;
+}
+.videos h3{
+    text-align: center;
+    font-size:25px;
+}
+.vid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}    
+
+.facebook{
+   padding-left: 512px;
+}
+
+footer{
+    background-color:rgb(24, 24, 78);
+    padding: 80px;
+  
+}
