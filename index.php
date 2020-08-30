@@ -6,6 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Estilos.css">
+    <link rel="shorcut icon" type="image/x-icon" href="imagenes/logo.ico">
+
     
     <title>Club Deportivo Fénix</title>
 </head>
@@ -13,7 +15,7 @@
   
     <nav>
         <ul class="menu">
-            <li><a href="Fenix.html">INICIO</a></li>
+            <li><a href="index.php">INICIO</a></li>
             <li><a href="rutinas.html">RUTINAS</a></li>
             <li><a href="destacado.html">DESTACADO</a></li>
             <li><a href="contacto.html" target="blank">CONTACTO</a></li>
