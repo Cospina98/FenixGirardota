@@ -37,7 +37,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 }
 .imagen{
     height: 580px;
-    background: url(Imagena.jpg);
+    background: url(/imagenes/imagen1.jpg);
 }
 .articulos{
     background-color:red
@@ -48,7 +48,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 }
   .art1{
     width: 330px; 
-    pa
+
   }
 .art2{
     float:center;
