@@ -8,6 +8,7 @@ body{
 
 nav{
     background-color: whitesmoke;
+    
 }
 .menu{
     text-align:center; margin: 0;
@@ -37,7 +38,9 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 }
 .imagen{
     height: 580px;
+
     background: url(imagenes/imagen1.jpg);
+    
 }
 .articulos{
     background-color:white;

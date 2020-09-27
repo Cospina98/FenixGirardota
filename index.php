@@ -23,10 +23,6 @@
 
     </nav>
 
-    <div class="titulo">
-        <H2>CLUB DEPORTIVO FÉNIX</H2>
-        <H3>Un club de amigos</H3>
-    </div>
 
     <div class="imagen"></div>
 
@@ -77,4 +73,6 @@
  
         </footer>
 </body>
+
 </html>
+
