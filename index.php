@@ -30,24 +30,25 @@
 
 <section clas="articulos">
     
-        <article class="art "> <h3 style="text-align: center;"> DESCRIPCIÓN DEL SITIO WEB</h3>
+        <article class="art ">
+             <h3> DESCRIPCIÓN DEL SITIO WEB</h3>
     <P>Este sitio está orientato a la presentación de un club de fútbol infantil,el cual debido a su crecimiento 
         necesita un salto a la innovación, tanto en sus procesos de inscripción, como en la presentación de su trabajo.</P>
     </article>
     <article  class="art ">
-        <h3 style="text-align: center;">¿QUÉ VERA EL USUARIO FINAL?</h3>
+        <h3>¿QUÉ VERA EL USUARIO FINAL?</h3>
         <P> Lo que el usuario final podra ver, es un sitio web con un buen diseño, que le permita una facil navegación. 
             Lo más importante es que los usuarios se sientan cómodos accediendo a las distintas páginas del sitio a las que 
             les corresponda ir. En conclusión, se busca una armonia de diseño y usabilidad.</P>
         </article>
         <article  class="art ">
-            <h3 style="text-align: center;">¿PARA QUÉ FUNCIONARA EL SITIO WEB?</h3>
+            <h3>¿PARA QUÉ FUNCIONARA EL SITIO WEB?</h3>
             <P>Basicamente el club necesita que sus procesos de formación deportiva sean presentados de una forma novedosa 
                 y qué mejor manera de hacerlo que con su propio sitio web, además el crecimineto del club requiere que sus procesos 
                 de pago de matriculas e inscripción sean adecuados de una forma virtual. </P>
             </article>
-            
         </section>
+
         <hr style="width: 80%; position: center; color: whitesmoke;"></hr>
 
         <section class="destacado">
@@ -56,7 +57,7 @@
                 <img src="imagenes/profeuno.jpg" style="width:50%;
                 height:200px;" >
                 <p>
-                   <h2> Él es el profe Juanda</h2> <br>
+                   <h2> Él es el profe Juanda</h2>
                      Es el encargado de la categoría Sub 5, Sub 11 y Sub 12 <br>
                      Su nombrecompleto es Juan David Ospina Vila y tiene 28 años de edad.
                     <h3> Sus estudios son:</h3>
@@ -75,6 +76,7 @@
                     - Profesor de educación fisica en sectores rurales de Girardota <br>
                     - Metodólogo deportivo del Inder de Girardota <br>
                     </p>
+
             </article>
             <article class="profes">
                 <img src="imagenes/profedos.jpg" style="width:50%;
@@ -84,7 +86,7 @@
                     Es el fundador del CLUB DEPORTIVO FÉNIX y la persona encargada de Coordinar nuestro Club, acompañando los procesos deportivos de nuestros campeones
 
                     Su nombre completo es Felipe Madrid Zapata. Tiene 26 años de edad.
-                    <h3> Sus estudios son:</h3>:
+                    <h3> Sus estudios son:</h3>
                     -Profesional en deporte del PCJIC <br>
                     - Diplomado en entretenimiento personalizado de la universidad de Antioquia <br>
                      -Curso de manifestaciones de la fuerza y entrenamiento de la hipertrofia en la U de A <br>
@@ -95,14 +97,14 @@
                    - Realizó las prácticas EPM como instructor en gimnaso,
                    - Instructor de fútbol de salón
                    - Instructor del grupo de la salud del Inder de Girardota <br>
-                
                 </p>
+
             </article>
             <article class="profes">
                 <img src="imagenes/profetres.jpg" style="width:50%;
                 height:200px;" >
                 <p>
-                    <h2>El es el profe Jeffer</h2>
+                    <h2>Él es el profe Jeffer</h2>
                     Es el encargado de la categoría Sub 13 y nos apoya como fisioterapeuta en el club
                    
                     Su nombre completo es Jefferson Ospina Castrillon
@@ -118,6 +120,7 @@
                   -Instructor de fútbol de salón <br>
                     </p>
             </article>
+
 </section>
 <hr style="width: 80%; position: center; color:whitesmoke;"></hr>
 
@@ -142,12 +145,13 @@ Términos y condiciones
 </p>
  </article>   
 
- <article style="margin-top:80px;font-weight:bolder ;">
+ <article >
      <P>
-<h3 >SOBRE NOSOTROS</h3>
+<h3 style="margin-top: 80px;font-weight:bolder">SOBRE NOSOTROS</h3>
+
 Quienes somos <br> <br>
-<a  style="text-decoration: none;" href="https://www.facebook.com/fenixgirardota2015/" target="blank"> Siguenos en facebook</a> <br><br>
-<a style="text-decoration: none;" href="https://www.youtube.com/channel/UCyOHtjNnCvPC4cJNmcHEZZw/featured" target="blank" > Siguenos en youtube </a> <br>
+<a href="https://www.facebook.com/fenixgirardota2015/" target="blank"> Siguenos en facebook</a> <br><br>
+<a href="https://www.youtube.com/channel/UCyOHtjNnCvPC4cJNmcHEZZw/featured" target="blank" > Siguenos en youtube </a> <br>
 </P>
  </article>
             <hr style="margin-top: 400px;height: 0px;border:1px dashed;">       
