@@ -88,8 +88,7 @@
 
 
   <!-- CARRUSEL -->
-  <!-- 
-<center><div class="container-sm"> -->
+  
   <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -104,7 +103,7 @@
         <img src="imagenes/Carrusel2.jpg" class="img-fluid" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="imagenes/carrusel3.jpg" class="img-fluid" alt="...">
+        <img src="imagenes/Carrusel3.jpg" class="img-fluid" alt="...">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -117,8 +116,6 @@
     </a>
   </div>
 
-  <!-- </div>
-</center> -->
 
  
 
