@@ -97,13 +97,13 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="imagenes/Carrusel1.jpg" class="img-fluid" alt="...">
+        <img src="imagenes/carrusel1.jpg" class="img-fluid" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="imagenes/Carrusel2.jpg" class="img-fluid" alt="...">
+        <img src="imagenes/carrusel2.jpg" class="img-fluid" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="imagenes/Carrusel3.jpg" class="img-fluid" alt="...">
+        <img src="imagenes/carrusel3.jpg" class="img-fluid" alt="...">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
