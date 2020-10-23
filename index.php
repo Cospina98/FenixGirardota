@@ -240,7 +240,7 @@
              <!-- TRES COLUMNAS -->
           <div class="col-md-4">
             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo1" aria-expanded="false" aria-controls="collapseExample">
-              <img class="z-depth-2"  src="imagenes/profedos.jpg" style="width:100%;margin:0px" alt="...">
+              <img class="z-depth-2"  src="imagenes/profe1.jpg" style="width:100%;margin:0px" alt="...">
             </button>
           </div>
           <div class="collapse" id="ejemplo1">
@@ -267,7 +267,7 @@
 
           <div class="col-md-4">
             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo2" aria-expanded="false" aria-controls="collapseExample">
-              <img class="z-depth-2" src="imagenes/profetres.jpg" style="width:100%;margin:0px" alt="...">
+              <img class="z-depth-2" src="imagenes/profe2.jpg" style="width:100%;margin:0px" alt="...">
             </button>
           </div>
           <div class="collapse" id="ejemplo2">
@@ -279,7 +279,7 @@
 
           <div class="col-md-4">
             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo3" aria-expanded="false" aria-controls="collapseExample">
-              <img class="z-depth-2" src="imagenes/profecuatro.jpg" style="width:100%;margin:0px" alt="...">
+              <img class="z-depth-2" src="imagenes/profe3.jpg" style="width:100%;margin:0px" alt="...">
 
             </button>
           </div>
@@ -329,7 +329,7 @@
               <!-- TRES COLUMNAS -->
           <div class="col-md-4">
             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo4" aria-expanded="false" aria-controls="collapseExample">
-              <img class="z-depth-2" src="imagenes/profecinco.jpg" style="width:100%;margin:0px" alt="...">
+              <img class="z-depth-2" src="imagenes/profe4.jpg" style="width:100%;margin:0px" alt="...">
 
             </button>
           </div>
@@ -343,7 +343,7 @@
 
           <div class="col-md-4">
             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo5" aria-expanded="false" aria-controls="collapseExample">
-              <img class="z-depth-2" src="imagenes/profeseis.jpg" style="width:100%;margin:0px" alt="...">
+              <img class="z-depth-2" src="imagenes/profe5.jpg" style="width:100%;margin:0px" alt="...">
 
             </button>
           </div>
@@ -357,7 +357,7 @@
 
           <div class="col-md-4">
             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo6" aria-expanded="false" aria-controls="collapseExample">
-              <img class="z-depth-2" src="imagenes/profesiete.jpg" style="width:100%;margin:0px" alt="...">
+              <img class="z-depth-2" src="imagenes/profe6.jpg" style="width:100%;margin:0px" alt="...">
 
             </button>
           </div>
