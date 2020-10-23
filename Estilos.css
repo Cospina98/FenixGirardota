@@ -1,161 +1,153 @@
-
-P,h1,h2,h3{
+/* P,h1,h2,h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+} */
 
-body{
-    margin: 0;
-}
-
-nav{
-    background-color: #1B1B1B;
-    position: fixed;
-    width: 100%;
+body {
     margin: 0px;
-    padding: 0px;
-    }
-
-  
-
-.menu li{
-    display: inline-block; 
-   
-}
-.menu a{
-color: rgba(136, 133, 133, 0.904);text-decoration:none;
-padding: 12px;
-display: block;
-font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-font-size: 13px;
-} 
-
-.menu li:hover{
-    background-color:white;
-  
-}
-.menu img{
-    margin-left: 10px;
-}
-.imagen{
-    widows: 100px; 
-    height:100vh;
-    margin-top: 0px;
-    background: url(imagenes/banner.JPG);
-    background-repeat: no-repeat;
-    background-position:center;
-    background-size: cover;
-    
-}
-section{
-    background-color:white;
-    overflow: hidden;
-    padding: 100px;
-    }
-
-.art{
-    float: left; background-color: rgb(226, 226, 226); height: 250px; width:30%;margin-left:3%;border-radius: 4px;
-
-}
-.art  p {
-    padding: 10px;
 }
 
-.art h3{
-    font-weight: bolder;
-    text-align: center;
-}
-article{
-    text-align: justify;
- color: rgba(136, 133, 133, 0.904) ;
-}
-
-
-.destacado{
-
-    height: 600px;
-    background-color:white;
-  
-}
-.profes{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    float: left; background-color:rgb(226, 226, 226); height: 500px; width:30%;margin-left:3%;border-radius: 4px;
-    overflow: scroll;
-   
-
-
-}
-.profes img{
-    
-  display: block;
-  margin:auto;
-margin-top: 20px;
-}
-.profes p{
-margin: 20px;
-padding: 10px;
-
-}
-.profes h2{
-    margin-bottom: 20px; font-weight: bolder;
-    text-align: center;
-}
-
-
-.videos{
+.videos {
     padding: 20px;
     height: 500px;
-    background-color:white;
-    
-    
+    background-color: white;
 }
-.videos h3{
+
+.videos h3 {
     text-align: center;
-    font-size:25px;
-    color: rgba(136, 133, 133, 0.904) ;
+    font-size: 25px;
+    color: rgba(136, 133, 133, 0.904);
     margin-bottom: 60px;
     font-weight: bold;
 }
-.vid{
-    
- float: left; background-color: whitesmoke; height: 250px; width:30%;margin-left:2%;border-radius: 4px;
-     
-}    
+
+.vid {
+    float: left;
+    background-color: whitesmoke;
+    height: 250px;
+    width: 30%;
+    margin-left: 2%;
+    border-radius: 4px;
+}
 
 
-footer{
-    background-color:#1B1B1B;
-    height:400px ;
+/* footer {
+    background-color: #1B1B1B;
+    height: 600px;
     padding: 30px;
-    
 }
-footer article{
-    float: left; ; height: 250px; width:30%;margin-left:2%;border-radius: 4px;
-     
+
+footer article {
+    float: left;
+    ;
+    height: 250px;
+    width: 30%;
+    margin-left: 2%;
+    border-radius: 4px;
 }
-footer p{
-    font-family: Georgia, 'Times New Roman', Times, serif;  
+
+footer p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-footer a{
+
+footer a {
     text-decoration: none;
-}
+} */
 
-
-
-
-form{
+form {
     margin-top: -50px;
-    background-color:white;
-    width: 300px; height: 400px;
+    background-color: white;
+    width: 300px;
+    height: 400px;
     margin: 0 auto;
-    padding:20px;
+    padding: 20px;
     border-radius: 5px;
 }
-.boton{
+
+.boton {
     width: 300px;
     height: 30px;
     border-radius: 3px;
 }
-.formulario{
-    background-color:rgb(175, 166, 166) ;
-    padding:100px;
+
+.formulario {
+    background-color: rgb(175, 166, 166);
+    padding: 100px;
+}
+
+.navbar li {
+    padding: 0px 0px 0px 10px;
+    height: 50px;
+    margin: auto;
+    display: block;
+}
+
+.gris {
+    background-color: rgba(0, 0, 0, 0.322);
+}
+
+.top-nav-collapse {
+    background-color: rgba(0, 0, 0, 0.849) !important;
+}
+
+.row {
+    margin-top: 20px;
+    padding: 100px 30px 100px 30px;
+    width: 100%;
+    margin: auto;
+}
+
+
+/* Center align the text within the three columns below the carousel */
+
+.servicios .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.servicios h2 {
+    margin-top: 15px;
+    color: gray;
+}
+
+#Servicios p {
+    color: grey;
+}
+
+#Servicios img {
+    width: 150px;
+}
+
+
+/* .servicios.col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+} */
+
+.m-t {
+    margin-top: 200px;
+}
+
+
+/* fin estilo servicios */
+
+#profes img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#profes img:hover {
+    border: white;
+}
+
+#nosotros {
+    background-color: black;
+    height: 800px;
+}
+
+#nosotros p {
+    color: whitesmoke;
+}
+
+.carouselExampleIndicators img {
+    height: 100vh;
 }
