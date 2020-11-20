@@ -17,7 +17,7 @@
 
 <body class="white" id="body">
   <!-- BARRA DE NAVEGACIÓN -->
-  <nav class="navbar navbar-expand-lg sticky navbar-dark gris scrolling-navbar fixed-top" id="navbar">
+  <nav class="navbar navbar-expand-lg navbar-dark gris fixed-top" id="navbar">
     <div class="container">
       <a class="navbar-brand" href="index.php">FÉNIX</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -110,16 +110,10 @@
   <div class="container-fluid" id="Servicios">
 
     <div class="container  pb-5 pt-5">
-      <!--Carousel Wrapper-->
+      <!--Carousel-->
       <div id="multi-item-example" class="carousel slide carousel-multi-item carousel" data-interval="false" data-ride="carousel">
 
-        <!--Controls-->
-        <!-- <div class="controls-top">
-           <a class="btn-floating" href="#multi-item-example" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-           <a class="btn-floating" href="#multi-item-example" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-          </div> -->
-        <!--/.Controls-->
-
+       
         <!--Indicators-->
         <ol class="carousel-indicators ">
           <li class="bg-secondary" data-target="#multi-item-example" data-slide-to="0" class="active"></li>
@@ -132,9 +126,9 @@
         <div class="carousel-inner" role="listbox">
 
 
-          <!--First slide-->
+          <!--Primer slide-->
           <div class="carrousel servicios carousel-item active white">
-            <h2 class="text-center text-muted display-4 mt-5"> Servicios</h2>
+            <h1 class="text-center text-muted display-4 mt-5"> Servicios</h1>
 
             <div class="row">
               <div class="  col-lg-4 ">
@@ -214,18 +208,13 @@
                   </div>
                 </div>
               </div>
-
-
-
-
             </div>
-
           </div>
-          <!--/.First slide-->
+          <!--/.primer slide-->
 
-          <!--Second slide-->
+          <!--Segundo slide-->
           <div class="carousel servicios carousel-item white">
-            <h2 class="text-center text-muted display-4 mt-5"> Servicios</h2>
+            <h1 class="text-center text-muted display-4 mt-5"> Servicios</h1>
 
             <div class="row">
               <div class="  col-lg-4 ">
@@ -249,7 +238,6 @@
                       <br>
                       <p>Nuestro masoterapeuta está a la disposición de nuestro club, además puedes contactarnos para agendar una cita.</p>
                     </div>
-
                   </div>
                 </div>
               </div>
@@ -272,11 +260,11 @@
               </div>
             </div>
           </div>
-          <!--/.Second slide-->
+          <!--/.Segundo slide-->
         </div>
         <!--/.Slides-->
       </div>
-      <!--/.Carousel Wrapper-->
+      <!--/.Carousel-->
     </div>
   </div>
 
@@ -313,7 +301,7 @@
   <!-- TARJETAS CON ACORDEON -->
   <div class=" container-fluid">
     <div class="container" id="Profes">
-      <h2 class="text-center text-muted pt-5 display-4" id="tituloprofes">Nuestros Profes</h2>
+      <h1 class="text-center text-muted pt-5 display-4" id="tituloprofes">Nuestros Profes</h1>
       <div class="row">
         <!-- TRES COLUMNAS -->
         <div class=" col-md-4 animado mb-5">
@@ -477,7 +465,6 @@
   <!-- GALERIA DE IMAGENES -->
 
   <div class="container-fluid" id="Galeria">
-    <h2 class="text-center text-warning">GALERIA </h2>
     <div class="row">
       <div class="col-md-4">
         <div id="Carruselgaleria1" class="carousel slide" data-ride="carousel">
