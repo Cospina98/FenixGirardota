@@ -1,89 +1,148 @@
-    body {
-        margin: 0px;
+body {
+    margin: 0px;
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: 0px;
+}
+
+
+/* BARRA DE NAVEGACIÓN */
+
+nav {
+    transition: top 1s;
+    background-color: #212529;
+    width: 100%;
+}
+
+.navbar a {
+    font-size: 18px;
+    color: black;
+}
+
+.navbar li {
+    padding: 0px 0px 0px 10px;
+    height: 50px;
+    margin: auto;
+    display: block;
+}
+
+.gris {
+    background-color: rgba(0, 0, 0, 0.322);
+}
+
+.top-nav-collapse {
+    background-color: rgba(0, 0, 0, 0.849) !important;
+}
+
+
+/* FIN BARRA NAVEGACIÓN */
+
+.row {
+    margin-top: 20px;
+    padding: 100px 30px 100px 30px;
+    width: 100%;
+    margin: auto;
+}
+
+.servicios .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.servicios h3 {
+    margin-top: 15px;
+    color: gray;
+}
+
+#Servicios p {
+    color: grey;
+}
+
+#Servicios img {
+    width: 150px;
+}
+
+#Servicios button {
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    color: grey;
+    font-size: 20px;
+}
+
+.m-t {
+    margin-top: 80px;
+}
+
+
+/* fin estilo servicios */
+
+.nostros {
+    background-color: #212529;
+}
+
+#profes img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#profes img:hover {
+    border: white;
+}
+
+#nosotros {
+    background-color: #212529;
+}
+
+#nosotros h1 {
+    color: white;
+    font-weight: bolder;
+}
+
+#nosotros h3 {
+    color: white;
+}
+
+#nosotros p {
+    color: white;
+}
+
+.carouselExampleIndicators img {
+    height: 100vh;
+}
+
+footer {
+    font-size: 14px;
+    background-color: #212529;
+}
+
+.animado {
+    opacity: 0;
+    transition: all 0.5s;
+    width: 50%;
+}
+
+.mostrararriba {
+    animation: mostrararriba 1s;
+}
+
+@keyframes mostrararriba {
+    0% {
+        transform: translateY(-50px)
     }
-    
-    h2 {
-        font-family: fantasy;
-        font-size: 0px;
+    100% {
+        transform: translateY(0)
     }
-    /* BARRA DE NAVEGACIÓN */
-    
-    .navbar a {
-        font-size: 18px;
-    }
-    
-    .navbar li {
-        padding: 0px 0px 0px 10px;
-        height: 50px;
-        margin: auto;
-        display: block;
-    }
-    
-    .gris {
-        background-color: rgba(0, 0, 0, 0.322);
-    }
-    
-    .top-nav-collapse {
-        background-color: rgba(0, 0, 0, 0.849) !important;
-    }
-    /* FIN BARRA NAVEGACIÓN */
-    
-    .row {
-        margin-top: 20px;
-        padding: 100px 30px 100px 30px;
-        width: 100%;
-        margin: auto;
-    }
-    
-    .servicios .col-lg-4 {
-        margin-bottom: 1.5rem;
-        text-align: center;
-    }
-    
-    .servicios h3 {
-        margin-top: 15px;
-        color: gray;
-    }
-    
-    #Servicios p {
-        color: grey;
-    }
-    
-    #Servicios img {
-        width: 150px;
-    }
-    
-    .m-t {
-        margin-top: 80px;
-    }
-    /* fin estilo servicios */
-    
-    #profes img {
-        width: 100%;
-        border-radius: 5px;
-    }
-    
-    #profes img:hover {
-        border: white;
-    }
-    
-    #nosotros h1 {
-        color: white;
-        font-weight: bolder;
-    }
-    
-    #nosotros h3 {
-        color: white;
-    }
-    
-    #nosotros p {
-        color: white;
-    }
-    
-    .carouselExampleIndicators img {
-        height: 100vh;
-    }
-    
-    footer {
-        font-size: 14px;
-    }
+}
+
+.efecto {
+    opacity: 0.2;
+    transition: all.3s;
+}
+
+
+/* 
+#carouselExampleIndicators {
+    margin-top: 80px;
+} */
