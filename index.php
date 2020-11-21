@@ -469,22 +469,23 @@
   <!-- FORMLARIO DE CONTACTO -->
 
   <div class=" contacto container-fluid" id="Contacto" style="background-image: url('imagenes/Fondoformulario.jpg')">
+   
+    <form>
+    <div class="form-group ">
+<h1 class=" formtitulo display-4 text-center py-5">Contacto</h1>
+        <input type="text" class="form-control " id="nombre" placeholder="Nombre">
+      </div>
 
+      <div class="form-group ">
+        <input type="email" class="form-control " id="correo" placeholder="Correo">
+      </div>
+      
+      <div class="form-group ">
+        <textarea class="form-control " id="mensaje" rows="3" placeholder="Mensaje"></textarea>
+      </div>
 
-          <form id="formulario">
-              <h1 class="FormTitulo text-center px-5 display-4"> Contacto</h1>
-
-              <input id="nombre" type="text" class="FormInput rounded" placeholder="Nombres">
-
-              <input id="correo" type="email" class="FormInput rounded" placeholder="Correo">
-
-              <textarea id="mensaje" name="" id="" cols="30" rows="5" type="text" class="FormInput  rounded" require placeholder="Mensaje"></textarea>
-
-              <button id="enviar" type="submit" class=" FormInput btn btn-dark w-25">Enviar</button>
-          
-          </form>
-
-    
+      <button type="submit" class="btn btn-primary " id="enviar">Enviar</button>
+    </form>
   </div>
 
 

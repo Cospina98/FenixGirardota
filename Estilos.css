@@ -101,33 +101,30 @@ nav {
 .contacto {
     width: 100%;
     height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
-.FormTitulo {
+form {
+    width: 500px;
+    box-sizing: border-box;
+}
+
+.formtitulo {
     color: white;
-    margin-bottom: 20px;
     opacity: 0.5;
 }
 
-.FormInput {
-    opacity: 0.4;
-    width: 450px;
-}
-
-.FormInput,
-.FormLabel {
-    display: block;
+.form-control {
     margin-bottom: 10px;
-    font-size: 20px;
-}
-
-.FormInput {
-    padding: 12px;
+    opacity: 0.3;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    font-size: 18px;
 }
 
 .carouselExampleIndicators img {

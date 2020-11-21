@@ -147,8 +147,8 @@ document.getElementById("enviar").onclick = function() {
     var mensaje = document.getElementById("mensaje").value;
     var expresion = /^[a-z][\w.-]+@\w[\w.-]+\.[\w.-]*[a-z][a-z]$/i;
 
-    if (nombre == "" || nombre.length < 5) {
-        alert('Ingresa un valor de mas de 5 caracteres');
+    if (nombre == "" || nombre.length < 4) {
+        alert('Ingresa tu nombre');
         return false;
 
     } else if (correo == "" || !expresion.test(correo)) {
