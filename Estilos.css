@@ -116,6 +116,7 @@ nav {
 
 .FormInput {
     opacity: 0.3;
+    overflow: hidden;
 }
 
 .FormInput,
