@@ -466,28 +466,25 @@
   <!-- FIN CONTAINER FLUID -->
 
 
-<!-- FORMLARIO DE CONTACTO -->
+  <!-- FORMLARIO DE CONTACTO -->
 
-  <div class=" fondo container-fluid" id="Contacto">
-    <div class="row">
-      <div class="col-sm-12 mt-5" style="margin-top: 50px;">
-        <center>
-          <form class="formulario " id="formulario">
-            <div class="form-group">
+  <div class=" contacto container-fluid" id="Contacto" style="background-image: url('imagenes/Fondoformulario.jpg')">
+
+
+          <form id="formulario">
               <h1 class="FormTitulo text-center px-5 display-4"> Contacto</h1>
 
-              <input id="nombre" type="text" class="FormInput w-50 rounded" placeholder="Nombres">
+              <input id="nombre" type="text" class="FormInput rounded" placeholder="Nombres">
 
-              <input id="correo" type="email" class="FormInput w-50 rounded" placeholder="Correo">
+              <input id="correo" type="email" class="FormInput rounded" placeholder="Correo">
 
-              <textarea id="mensaje" name="" id="" cols="30" rows="5" type="text" class="FormInput w-50 rounded" require placeholder="Mensaje"></textarea>
+              <textarea id="mensaje" name="" id="" cols="30" rows="5" type="text" class="FormInput  rounded" require placeholder="Mensaje"></textarea>
 
-              <button id="enviar" type="submit" class=" FormSumbit btn btn-dark w-25">Enviar</button>
-            </div>
-        </center>
-      </div>
-      </form>
-    </div>
+              <button id="enviar" type="submit" class=" FormInput btn btn-dark w-25">Enviar</button>
+          
+          </form>
+
+    
   </div>
 
 
