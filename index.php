@@ -35,6 +35,9 @@
             <a class="nav-link" href="#Profes">Profes</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="#Contacto">Contacto</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="https://fenixgirardota.blogspot.com/" target="_blank"> Blog</a>
           </li>
           <li class="nav-item dropdown">
@@ -75,33 +78,33 @@
 
 
   <!-- CARRUSEL -->
-    <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="imagenes/carruseluno.jpg" class="img-fluid" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="imagenes/carruseldos.jpg" class="img-fluid" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="imagenes/carruseltres.jpg" class="img-fluid" alt="...">
-        </div>
+  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="imagenes/carruseluno.jpg" class="img-fluid" alt="...">
       </div>
-      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
+      <div class="carousel-item">
+        <img src="imagenes/carruseldos.jpg" class="img-fluid" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="imagenes/carruseltres.jpg" class="img-fluid" alt="...">
+      </div>
     </div>
-  
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
 
 
 
@@ -113,7 +116,7 @@
       <!--Carousel-->
       <div id="multi-item-example" class="carousel slide carousel-multi-item carousel" data-interval="false" data-ride="carousel">
 
-       
+
         <!--Indicators-->
         <ol class="carousel-indicators ">
           <li class="bg-secondary" data-target="#multi-item-example" data-slide-to="0" class="active"></li>
@@ -132,7 +135,7 @@
 
             <div class="row">
               <div class="  col-lg-4 ">
-                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo3.jpg" id="imagencirculo" data-toggle="modal" data-target="#Modal1">
+                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo3.jpg" id="imagencirculo1" data-toggle="modal" data-target="#Modal1">
                 <h3 class="card-title">Entrenamientos</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
@@ -157,7 +160,7 @@
               </div>
 
               <div class=" col-lg-4 clearfix  d-md-block">
-                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo4.jpg" id="imagencirculo" data-toggle="modal" data-target="#Modal2">
+                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo4.jpg" id="imagencirculo2" data-toggle="modal" data-target="#Modal2">
                 <h3 class="card-title">Personalizados</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
@@ -184,7 +187,7 @@
 
 
               <div class=" col-lg-4 clearfix  d-md-block">
-                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo5.jpg" id="imagencirculo" data-toggle="modal" data-target="#Modal3">
+                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo5.jpg" id="imagencirculo3" data-toggle="modal" data-target="#Modal3">
                 <h3 class="card-title">Fisioterapia</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
@@ -218,7 +221,7 @@
 
             <div class="row">
               <div class="  col-lg-4 ">
-                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo6.jpg " id="imagencirculo" data-toggle="modal" data-target="#Modal4">
+                <img class=" circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo6.jpg " id="imagencirculo4" data-toggle="modal" data-target="#Modal4">
                 <h3 class="card-title">Masoterapia</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
@@ -246,14 +249,14 @@
 
 
               <div class=" col-lg-4 clearfix d-md-block">
-                <img class="circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo7.jpg " id="imagencirculo">
+                <img class="circulo card-img-top rounded-circle example hoverable" src="imagenes/circulo7.jpg " id="imagencirculo5">
                 <h3 class="card-title">Comunicaciones</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
               </div>
 
               <div class=" col-lg-4 clearfix  d-md-block">
-                <img class="circulocard-img-top rounded-circle example hoverable" src="imagenes/circulo8.jpg" id="imagencirculo">
+                <img class="circulocard-img-top rounded-circle example hoverable" src="imagenes/circulo8.jpg" id="imagencirculo6">
                 <h3 class="card-title">Metodología</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
@@ -276,10 +279,12 @@
     <div class="container">
       <h1 class="text-muted text-center pt-4"> NOSOTROS</h1>
 
+
       <div class="row">
 
         <div class="efecto col-lg-4">
           <h3 class="text-muted text-center">QUIÉNES SOMOS</h3>
+
           <P class="text-muted text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat obcaecati ea porro assumenda, iusto, a dolores aut culpa sed dolore ex debitis fugiat aspernatur distinctio amet id, modi consectetur eius!</P>
         </div>
 
@@ -461,10 +466,35 @@
   <!-- FIN CONTAINER FLUID -->
 
 
+<!-- FORMLARIO DE CONTACTO -->
+
+  <div class=" fondo container-fluid" id="Contacto">
+    <div class="row">
+      <div class="col-sm-12 mt-5" style="margin-top: 50px;">
+        <center>
+          <form class="formulario " id="formulario">
+            <div class="form-group">
+              <h1 class="FormTitulo text-center px-5 display-4"> Contacto</h1>
+
+              <input id="nombre" type="text" class="FormInput w-50 rounded" placeholder="Nombres">
+
+              <input id="correo" type="email" class="FormInput w-50 rounded" placeholder="Correo">
+
+              <textarea id="mensaje" name="" id="" cols="30" rows="5" type="text" class="FormInput w-50 rounded" require placeholder="Mensaje"></textarea>
+
+              <button id="enviar" type="submit" class=" FormSumbit btn btn-dark w-25">Enviar</button>
+            </div>
+        </center>
+      </div>
+      </form>
+    </div>
+  </div>
+
+
 
   <!-- GALERIA DE IMAGENES -->
 
-  <div class="container-fluid" id="Galeria">
+  <div class="container-fluid " id="Galeria">
     <div class="row">
       <div class="col-md-4">
         <div id="Carruselgaleria1" class="carousel slide" data-ride="carousel">

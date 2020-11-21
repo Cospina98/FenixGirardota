@@ -102,6 +102,34 @@ nav {
     color: white;
 }
 
+.fondo {
+    background-image: url("imagenes/Fondoformulario.jpg");
+    width: 100%;
+    height: 100vh;
+}
+
+.FormTitulo {
+    color: white;
+    margin-bottom: 20px;
+    opacity: 0.5;
+}
+
+.FormInput {
+    opacity: 0.3;
+}
+
+.FormInput,
+.FormLabel,
+.FormSumbit {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.FormInput {
+    padding: 12px;
+}
+
 .carouselExampleIndicators img {
     height: 100vh;
 }
@@ -114,7 +142,6 @@ footer {
 .animado {
     opacity: 0;
     transition: all 0.5s;
-    width: 50%;
 }
 
 .mostrararriba {
