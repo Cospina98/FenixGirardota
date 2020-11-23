@@ -164,10 +164,10 @@ document.getElementById("enviar").onclick = function() {
     return true;
 }
 
-
+//ONMOUSE OPACITY
 
 document.getElementById("nombre").onmouseover = function() {
-    var nombre = document.getElementById("nombre").style.opacity = 0.8
+    var nombre = document.getElementById("nombre").style.opacity = 0.6
 };
 
 document.getElementById("nombre").onmouseout = function() {
@@ -177,7 +177,7 @@ document.getElementById("nombre").onmouseout = function() {
 
 
 document.getElementById("correo").onmouseover = function() {
-    var correo = document.getElementById("correo").style.opacity = 0.8
+    var correo = document.getElementById("correo").style.opacity = 0.6
 
 };
 
@@ -188,10 +188,22 @@ document.getElementById("correo").onmouseout = function() {
 
 
 document.getElementById("mensaje").onmouseover = function() {
-    var mensaje = document.getElementById("mensaje").style.opacity = 0.8
+    var mensaje = document.getElementById("mensaje").style.opacity = 0.6
 
 };
 
 document.getElementById("mensaje").onmouseout = function() {
     var mensaje = document.getElementById("mensaje").style.opacity = 0.3
 };
+
+
+//OCLICK OPACITIY
+document.getElementById("nombre").onclick = function() {
+    var nombre = document.getElementById("nombre").style.opacity = 1
+}
+document.getElementById("correo").onclick = function() {
+    var correo = document.getElementById("correo").style.opacity = 1
+}
+document.getElementById("mensaje").onclick = function() {
+    var mensaje = document.getElementById("mensaje").style.opacity = 1
+}
