@@ -40,17 +40,10 @@
           <li class="nav-item">
             <a class="nav-link" href="https://fenixgirardota.blogspot.com/" target="_blank"> Blog</a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Categorias
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="Categoria1.html" target="_blank">Escuela Sub-8</a>
-              <a class="dropdown-item" href="Categoria2.html" target="_blank">Sub-10 Sub-12</a>
-              <a class="dropdown-item" href="Categoria3.html" target="_blank">Sub-13 Sub-14</a>
-
-            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="Categorias.html" target="_blank">Categorias</a>
           </li>
+         
         </ul>
 
         <ul class="navbar-nav ml-auto nav-flex-icons">
