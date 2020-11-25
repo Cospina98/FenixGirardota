@@ -12,16 +12,16 @@ window.onscroll = function() {
 }
 
 //TARJETAS DE PROFES
-var animado = document.querySelectorAll(".animado");
+var tarjeta = document.querySelectorAll(".tarjeta");
 window.addEventListener('scroll', mostrarScroll)
 
 function mostrarScroll() {
     var scrollTop = document.documentElement.scrollTop;
-    for (i = 0; i < animado.length; i++) {
-        var alturadetarjetas = animado[i].offsetTop;
+    for (i = 0; i < tarjeta.length; i++) {
+        var alturadetarjetas = tarjeta[i].offsetTop;
         if (alturadetarjetas - 600 < scrollTop) {
-            animado[i].style.opacity = 1;
-            animado[i].classList.add("mostrararriba");
+            tarjeta[i].style.opacity = 1;
+            tarjeta[i].classList.add("mostrararriba");
 
         }
     }

@@ -302,7 +302,7 @@
       <h1 class="text-center text-muted pt-5 display-4" id="tituloprofes">Nuestros Profes</h1>
       <div class="row">
         <!-- TRES COLUMNAS -->
-        <div class=" col-md-4 animado mb-5">
+        <div class=" col-md-4 tarjeta mb-5">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo1" aria-expanded="false" aria-controls="collapseExample">
             <img class="z-depth-2" src="imagenes/profe1.jpg" style="width:100%;margin:0px" alt="...">
           </button>
@@ -329,7 +329,7 @@
         </div>
 
 
-        <div class="col-md-4 mb-4 animado">
+        <div class="col-md-4 mb-4 tarjeta">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo2" aria-expanded="false" aria-controls="collapseExample">
             <img class="z-depth-2" src="imagenes/profe2.jpg" style="width:100%;margin:0px" alt="...">
           </button>
@@ -341,7 +341,7 @@
         </div>
 
 
-        <div class=" col-md-4  mb-5 animado">
+        <div class=" col-md-4  mb-5 tarjeta">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo3" aria-expanded="false" aria-controls="collapseExample">
             <img class="z-depth-2" src="imagenes/profe3.jpg" style="width:100%;margin:0px">
 
@@ -392,7 +392,7 @@
         <!-- FIN COLLASPSE 3 PRIMERAS COLUMNAS -->
 
         <!-- TRES COLUMNAS -->
-        <div class=" col-md-4 animado">
+        <div class=" col-md-4 tarjeta">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo4" aria-expanded="false" aria-controls="collapseExample">
             <img class="z-depth-2" src="imagenes/profe4.jpg" style="width:100%;margin:0px" alt="...">
 
@@ -406,7 +406,7 @@
         </div>
 
 
-        <div class=" col-md-4 animado">
+        <div class=" col-md-4 tarjeta">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo5" aria-expanded="false" aria-controls="collapseExample">
             <img class="z-depth-2" src="imagenes/profe5.jpg" style="width:100%;margin:0px" alt="...">
 
@@ -420,7 +420,7 @@
         </div>
 
 
-        <div class="col-md-4 animado">
+        <div class="col-md-4 tarjeta">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ejemplo6" aria-expanded="false" aria-controls="collapseExample">
             <img class="z-depth-2" src="imagenes/profe6.jpg" style="width:100%;margin:0px" alt="...">
 
