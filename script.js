@@ -9,6 +9,8 @@ window.onscroll = function() {
 
     }
     ubicacionInicial = desplazamiento
+    console.log(desplazamiento)
+
 }
 
 //TARJETAS DE PROFES
@@ -40,7 +42,6 @@ function mostrarEfecto() {
             efecto[i].style.opacity = 1;
         }
     }
-
 }
 
 //BOTÓN MODO OSCURO
@@ -49,7 +50,7 @@ var d = 0
 boton.onclick = function() {
     var body = document.getElementById("body")
     if (d == 0) {
-        body.style.backgroundColor = "black"
+        body.style.backgroundColor = " rgb(40, 44, 52)"
         d = 1
     } else {
         document.getElementById("body").style.backgroundColor = "white"
